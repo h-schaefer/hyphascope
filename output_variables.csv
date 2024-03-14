@@ -1,0 +1,24 @@
+(cycles_YYYYMMDDhhmmss.csv)
+variable,definition,unit
+cycle_no,Number of the imaging cycle
+time,Duration of the imaging cycle,seconds
+pos_x,Horizontal position of the top left corner of the imaged volume,mm
+pos_z,Vertical position of the top left corner of the imaged volume,mm
+vol_w,User-specified width of the imaged volume,mm
+vol_h,User-specified height of the imaged volume,mm
+vol_d,User-specified depth of the imaged volume,mm
+n_imgs_x,Number of images taken along the X (horizontal) axis,
+n_imgs_z,Number of images taken along the Z (vertical) axis,
+n_imgs_f,Number of images taken along the F (depth) axis,
+img_w,Width of a single image,mm
+img_h,Height of a single image,mm
+img_d,Depth of field of a single image,mm
+olap_x,Overlap between neighboring images along the X axis,mm
+olap_z,Overlap between neighboring images along the Z axis,mm
+olap_f,Overlap between neighboring images along the F axis,mm
+(log_YYYYMMDDhhmmss.csv)
+datetime,Date and time the image was taken
+cycle_no,Number of the imaging cycle
+f_depth,Focus depth,mm
+xz_pos_no,Number of the XZ position
+sharp,Image sharpness expressed as the variation in the Laplacian operator
