@@ -6,7 +6,7 @@ This repository hosts the *Python* code needed to operate a low-cost high-resolu
 
 Using a digital microscope camera (DMC; 600× magnification), the imaging device takes detailed images within an observable volume of 70 (horizontal) × 210 (vertical) × 1.5 mm (focus depth). DMC image sizes of 640 × 480, 1280 × 960, and 1600 × 1200 pixels correspond to imaging resolutions of 1.30 μm px<sup>-1</sup> (19600 dpi), 0.65 μm px<sup>-1</sup> (39200 dpi), and 0.52 μm px<sup>-1</sup> (49000 dpi), respectively.
 
-For a detailed description of assembly and application of the imaging device, see [this protocol on protocols.io](https://www.protocols.io/) (the link will be added once the protocol is published).
+For a detailed description of assembly and application of the imaging device, see [this protocol on protocols.io](https://dx.doi.org/10.17504/protocols.io.bp2l6xo3zlqe/v1).
 
 ## Dependencies
 
@@ -21,7 +21,7 @@ Furthermore, the window manager [*screen*](https://www.gnu.org/software/screen/)
 
 ## Installation
 
-After assembling *Hyphascope*, follow the section *Installation of the software* in  [the protocol on protocols.io](https://www.protocols.io/) to install all software dependencies on the imaging device. Then, download the file *imaging_session.py* to a host computer that can reach the imaging device via the Secure Shell Protocol (SSH).
+After assembling *Hyphascope*, follow the section *Installation of the software* in  [the protocol on protocols.io](https://dx.doi.org/10.17504/protocols.io.bp2l6xo3zlqe/v1) to install all software dependencies on the imaging device. Then, download the file *imaging_session.py* to a host computer that can reach the imaging device via the Secure Shell Protocol (SSH).
 
 ## Usage
 
