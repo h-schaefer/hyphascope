@@ -12,6 +12,8 @@ For more information on the imaging device, see this article published in PLOS O
 For a detailed description of the assembly and application of the imaging device, see this protocol on protocols.io:  
 [Schaefer H (2024). Hyphascope: Do-it-yourself assembly and application of an imaging device for hyphae in soil. protocols.io.](https://dx.doi.org/10.17504/protocols.io.bp2l6xo3zlqe/v1)
 
+Furthermore, all [design files used to assemble the imaging device](https://doi.org/10.5281/zenodo.10689905) and several [sets of images yielded with the imaging device](https://doi.org/10.5281/zenodo.10730414) are available from the data repository Zenodo.
+
 ## Dependencies
 
 The code uses the *Python* base modules *sys*, *os*, *datetime*, *time*, *math*, *tty*, *termios*, *dataclasses*, *typing*, and *multiprocessing* as well as the below third-party packages: 
