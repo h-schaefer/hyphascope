@@ -2,6 +2,8 @@
 
 ## Description
 
+<img align="right" src="https://github.com/h-schaefer/hyphascope/blob/main/hyphascope.png" width="300" /> 
+
 This repository hosts the *Python* code needed to operate a low-cost high-resolution imaging device for hyphae in soil called *Hyphascope*. Repeated imaging of a soil profile enables researchers to observe and quantify changes in the amount, distribution, and morphology of hyphae.
 
 Using a digital microscope camera (DMC; 600× magnification), the imaging device takes detailed images within an observable volume of 70 (horizontal) × 210 (vertical) × 1.5 mm (focus depth). DMC image sizes of 640 × 480, 1280 × 960, and 1600 × 1200 pixels correspond to imaging resolutions of 1.30 μm px<sup>-1</sup> (19600 dpi), 0.65 μm px<sup>-1</sup> (39200 dpi), and 0.52 μm px<sup>-1</sup> (49000 dpi), respectively.
@@ -11,6 +13,8 @@ For more information on the imaging device, see this article published in PLOS O
 
 For a detailed description of the assembly and application of the imaging device, see this protocol on protocols.io:  
 [Schaefer H (2024). Hyphascope: Do-it-yourself assembly and application of an imaging device for hyphae in soil. protocols.io.](https://dx.doi.org/10.17504/protocols.io.bp2l6xo3zlqe/v1)
+
+[<img align="right" src="https://github.com/h-schaefer/hyphascope/blob/main/certification-mark-JP000021-wide.png" width="200" />](https://certification.oshwa.org/jp000021.html)  
 
 Furthermore, all [design files used to assemble the imaging device](https://doi.org/10.5281/zenodo.10689905) and several [sets of images yielded with the imaging device](https://doi.org/10.5281/zenodo.10730414) are available from the data repository Zenodo.
 
